@@ -1,7 +1,7 @@
 # **Jorge Rebolledo**
 
 <p>
-    <a href="mailto:hola@mejorgelatina.com">your-hola@mejorgelatina.com</a>
+    <a href="mailto:hola@mejorgelatina.com">hola@mejorgelatina.com</a>
 </p>
 
 linkedin.com/in/mejorgelatina
