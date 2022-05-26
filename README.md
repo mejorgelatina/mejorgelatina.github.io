@@ -2,7 +2,9 @@
 bienvenido a mi CV :)  
 
 Results-oriented marketing professional with experience in data analytics. Proven track record in complex industries, delivering value and innovation designing detail-oriented decisions and recommendations that have an impact for businesses.
-(+52) 5525 665761 mejorgelatina@gmail.com linkedin.com/in/mejorgelatina
+(+52) 5525 665761 <p>
+    <a href="mailto:hola@mejorgelatina.com">hola@mejorgelatina.com</a>
+</p> linkedin.com/in/mejorgelatina
 
 EDUCATION
 
