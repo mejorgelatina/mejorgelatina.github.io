@@ -1,6 +1,9 @@
 # **Jorge Rebolledo**
 
-(+52) 5525 665761 mejorgelatina@gmail.com
+<p>
+    <a href="mailto:hola@mejorgelatina.com">your-hola@mejorgelatina.com</a>
+</p>
+
 linkedin.com/in/mejorgelatina
 
 **SUMMARY**
